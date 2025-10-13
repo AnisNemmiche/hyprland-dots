@@ -1,0 +1,11 @@
+- hibernation (in swapfile)
+- tray icon
+- auto start discord workspace 5+ ou fg
+- git push .config
+- kitty ctrl-c
+- Reduire les sleep/hibernate/reboot...
+- L'IA widget
+- calendar heure de priere + vpn botton
+- bouton perf dans la slidebar a droite
+- bar avec des "trou" + translucide
+- theme vscode (mutugen / hyprluna) + discord ?
